@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+       <Meta charset="utf-8">
+        <meta name="viewpoint" content="width=device-width, intial-scale=1.0">
+        <title>string Example</title>
+        <script src="mystringsjavascript.js"></script>
+    </head>
+    <body>
+    <h1>hello teacher string example</h1>
+    <script src="mystringsjavascript.js"></script>
+    </body>
+</html>
